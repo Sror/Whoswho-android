@@ -1,0 +1,8 @@
+<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/category_image"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000"
+    android:gravity="center"
+    android:padding="32dp" />
+<!-- From: file:/Users/stevenparker/Documents/Github/new_android_knitsy_2015/baker/src/main/res/layout/fragment_category.xml -->

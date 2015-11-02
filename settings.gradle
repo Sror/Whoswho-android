@@ -1,0 +1,2 @@
+include ':baker'
+project(':baker').projectDir = new File('baker')
